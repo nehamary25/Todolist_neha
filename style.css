@@ -1,0 +1,52 @@
+@import url('https://fonts.googleapis.com/css2?family=Manrope:wght@500;600;700;800&family=Roboto:wght@300;400;500;700;900&display=swap');
+
+
+.todo-header {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 300;
+    font-size: 2rem;
+    padding: 0px 20px;
+}
+
+.todo-sub-header {
+    font-family: 'Manrope', sans-serif;
+    font-size: 4rem;
+    font-weight: 800;
+    padding: 10px 20px;
+}
+
+.task-table-header1 {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 400;
+    font-size: 1rem;
+    color: rgb(8, 119, 255);
+}
+
+.task-table-header2 {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 400;
+    font-size: 1rem;
+    color: rgb(255, 197, 5);
+}
+
+.task-label1 {
+    background-color: aliceblue;
+    padding: 3px 25px;
+    border-radius: 25px;
+}
+
+
+.task-label2 {
+    background-color: rgb(255, 252, 238);
+    padding: 3px 25px;
+    border-radius: 25px;
+}
+
+.task-done {
+    text-decoration: line-through;
+    color: #999999;
+}
+
+.borderless td {
+    border: none;
+}
